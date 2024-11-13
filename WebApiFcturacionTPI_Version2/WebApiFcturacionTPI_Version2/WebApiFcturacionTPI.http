@@ -1,0 +1,6 @@
+@WebApiFcturacionTPI_HostAddress = http://localhost:5157
+
+GET {{WebApiFcturacionTPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

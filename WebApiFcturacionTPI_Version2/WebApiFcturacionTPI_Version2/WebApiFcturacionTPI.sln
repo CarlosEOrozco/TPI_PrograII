@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiFcturacionTPI", "WebApiFcturacionTPI.csproj", "{FB3EEE6D-B67C-4F58-B702-6705C4E76310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3EEE6D-B67C-4F58-B702-6705C4E76310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3EEE6D-B67C-4F58-B702-6705C4E76310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3EEE6D-B67C-4F58-B702-6705C4E76310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3EEE6D-B67C-4F58-B702-6705C4E76310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4549FA09-7EFE-4D9D-8D10-FA67FEB0302F}
+	EndGlobalSection
+EndGlobal
